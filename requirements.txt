@@ -1,2 +1,2 @@
 pytest
-requestshttps://github.com/Akimimaru/qa-automation-tests/tree/main
+requests
